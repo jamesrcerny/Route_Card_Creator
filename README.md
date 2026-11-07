@@ -2,11 +2,11 @@
 
 > A Windows desktop app that turns a primary and an alternate KML route into a printable Excel sheet of navigation route cards, one per team member.
 
+<img width="2306" height="1181" alt="Screenshot 2026-11-07 134957" src="https://github.com/user-attachments/assets/d3dd9e47-db04-40e9-a47f-39df21af36c5" />
 <img width="1128" height="723" alt="Screenshot 2026-11-07 135433" src="https://github.com/user-attachments/assets/49bbb4b2-5bbe-44ac-a032-5a5187d0eff0" />
 <img width="2429" height="1246" alt="Screenshot 2026-11-07 135547" src="https://github.com/user-attachments/assets/9eac39bc-c0ea-4bc4-b5db-7eec3e9ce056" />
 <img width="2237" height="1163" alt="Screenshot 2026-11-07 135613" src="https://github.com/user-attachments/assets/f3381b0a-cd3a-464b-8d99-c15fda0c935b" />
 <img width="2352" height="860" alt="Screenshot 2026-11-07 135634" src="https://github.com/user-attachments/assets/9bc8c712-c71c-4144-ac33-67eddbca8131" />
-<img width="2306" height="1181" alt="Screenshot 2026-11-07 134957" src="https://github.com/user-attachments/assets/d3dd9e47-db04-40e9-a47f-39df21af36c5" />
 
 
 ---
